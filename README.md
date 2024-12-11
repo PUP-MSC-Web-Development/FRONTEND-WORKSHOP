@@ -1,11 +1,11 @@
-# Frontend Workshop Labs
+# Frontend Workshop Labs Draft/Outline
 
 Welcome to the **Frontend Workshop Labs** repository! This repository contains hands-on exercises for learning the basics of frontend development using HTML, CSS, and JavaScript.
 
 Each section includes:
 - **Documentation**: Read through to understand key concepts.
 - **Exercises**: Practical activities to implement the concepts.
-- **Knowledge Check**: A quiz to reinforce your understanding (Microsoft Forms link provided).
+- **Knowledge Check**: A quiz to reinforce your understanding (Provided on the dropbox).
 
 ## Lab Topics
 
@@ -39,13 +39,10 @@ Each section includes:
 1. **Navigate** to the topic folder (e.g., `HTML/`, `CSS/`).
 2. **Read the Documentation** in the `Documentation/` folder to learn the concepts.
 3. **Complete the Exercises** in the `Exercises/` folder.
-4. Take the **Knowledge Check Quiz** linked in the `Knowledge-Check/` folder.
+4. Submit your repository to the MS forms provided.
 
 ---
 
-## Prerequisites
-- Basic familiarity with HTML, CSS, and JavaScript.
-- A code editor (e.g., VS Code).
-- A modern web browser (e.g., Chrome, Edge).
-
 Happy learning!
+
+
