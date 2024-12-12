@@ -1,7 +1,8 @@
 # Frontend Workshop Labs Draft/Outline
 
 ## Delegated leads/seniors/mid-levels, feel free to alter this repository as you wish. Feel free to add images, banners, or any assets that would enhance the repository. You may add more exercises or you can change any exercises as you deem necessary so long as it can reinforce their learnings from the workshop.
-NOTE: Wala tayong permission to create assignments in MS Teams kaya we'll settle with MS Forms as submission
+NOTE: Wala tayong permission to create assignments in MS Teams kaya we'll settle with MS Forms as submission.
+Pakidagdag na lang din ng setup instructions like how to clone the template repository using Github Desktop (napagdaanan 'to sa past tools workshop natin)
 
 ________________
 
