@@ -1,3 +1,5 @@
+<img src="Assets/banner.png" alt="Project Banner" width="100%" height="260">
+
 # Frontend Workshop Labs Draft/Outline
 
 ## Delegated leads/seniors/mid-levels, feel free to alter this repository as you wish as this is just a sample outline generated from ChatGPT for convenience. Feel free to add images, banners, or any assets that would enhance the repository. You may add more exercises or you can change any exercises as you deem necessary so long as it can reinforce their learnings from the workshop.
@@ -7,7 +9,7 @@ Pakidagdag na lang din ng setup instructions like how to clone the template repo
 ________________
 
 Welcome to the **Frontend Workshop Labs** repository! This repository contains hands-on exercises for learning the basics of frontend development using HTML, CSS, and JavaScript.
-<img src="Assets/banner.png" alt="Project Banner" width="100%" height="260">
+
 Each section includes:
 - **Documentation**: Read through to understand key concepts.
 - **Exercises**: Practical activities to implement the concepts.
