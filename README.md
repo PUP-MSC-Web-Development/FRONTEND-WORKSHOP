@@ -6,6 +6,12 @@
 NOTE: Wala tayong permission to create assignments in MS Teams kaya we'll settle with MS Forms as submission.
 Pakidagdag na lang din ng setup instructions like how to clone the template repository using Github Desktop (napagdaanan 'to sa past tools workshop natin)
 
+ADDITIONAL NOTE:
+For visualization, ganito ang magiging process:
+
+Workshop -> READ ADDITIONAL DOCUMENTATIONS (optional) -> Work on the exercises -> Submit to the MS Forms dropbox (with knowledge check) -> Done
+
+
 ________________
 
 Welcome to the **Frontend Workshop Labs** repository! This repository contains hands-on exercises for learning the basics of frontend development using HTML, CSS, and JavaScript.
