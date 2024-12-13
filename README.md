@@ -7,7 +7,7 @@ Pakidagdag na lang din ng setup instructions like how to clone the template repo
 ________________
 
 Welcome to the **Frontend Workshop Labs** repository! This repository contains hands-on exercises for learning the basics of frontend development using HTML, CSS, and JavaScript.
-
+<img src="Assets/banner.png" alt="Project Banner" width="100%" height="260">
 Each section includes:
 - **Documentation**: Read through to understand key concepts.
 - **Exercises**: Practical activities to implement the concepts.
