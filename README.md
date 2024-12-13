@@ -53,6 +53,17 @@ Each section includes:
 
 ---
 
+## Setup Instructions
+1. Clone this template repository ...
+
+---
+
+
+## Feel free magbawas o magdagdag ng section
+1. Sample
+
+---
+
 Happy learning!
 
 
