@@ -1,4 +1,4 @@
-<img src="Assets/banner.png" alt="Project Banner" width="100%" height="245">
+<img src="Assets/banner.png" alt="Project Banner" width="100%" height="242">
 
 # Frontend Workshop Labs Draft/Outline
 
