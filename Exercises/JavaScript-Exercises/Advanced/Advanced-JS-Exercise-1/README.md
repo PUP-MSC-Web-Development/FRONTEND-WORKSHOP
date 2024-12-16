@@ -1,20 +1,73 @@
-# JS Advanced Exercise 1
+# JavaScript Advanced Exercise 1: Dynamic Counter 🔢
 
-Let's practice one of the most important utility in JS, the **DOM Manipulation**.
+## 🌟 Goal
 
-The **Document Object Model** or DOM is the contents of a webpage represented like a tree of "nodes". These nodes are usually the elements in our webpage which have different relationships depending on how they are arranged in the HTML file.
+For the first JS Advanced Exercise, you'll create a **dynamic counter** that increases or decreases its value based on user interaction. This task will help you practice **DOM manipulation**, **event handling**, and working with **conditional logic**.
 
-In this exercise, we will focus on targeting the nodes we need using id selector ("#id" for example), and the DOM method **querySelector** to affect/manipulate certain elements in our the DOM. Some event handling will be necessary here too.
+---
 
-Given the `Advanced-JS-Exercise-1.html` with ids for counter text, the add button, and the subtract button, you are tasked to edit the `Advanced-JS-Exercise-1.js` such that when the add (blue) button is clicked, the value of the counter displayed will increase, and the opposite for the subtract (red) button. You can also use the things you learned in JS conditionals to make it so the counter value will not go negative when the subtract button is clicked when it is already zero.
+## 🛠️ Instructions
 
-![possible_outcome](possible-outcome.png)
+### 1. Provided Files 📂
+You will receive:
+- **`dynamic-counter.html`**: A simple HTML file with a counter display and two buttons.
+- **`Advanced-JS-Exercise-1.css`**: A CSS file to style the counter and buttons.
 
-## Self-Check
-You can use these pointers to check your work, but it's not necessary to adapt all of them but only get relative close to the possible output.
+Your task is to implement the JavaScript functionality in a `dynamic-counter.js` file.
 
-- Used `document.querySelector("#id-name)` to target the counter text and the button nodes. 
-- Used variables to store the targeted nodes.
-- Initialized a variable for like "counterVal" as 0 to track current counter value.
-- Attached event listeners to the buttons where the counter variable was incremented/decremented appropriately.
-- Used `.textcontent` method to the targeted counter text variable to update counter display in the webpage.
+---
+
+### 2. Sample Flow 🎮
+1. The counter starts at `0`.
+2. When the **blue (+)** button is clicked, the counter value increases by 1.
+3. When the **red (-)** button is clicked, the counter value decreases by 1.
+4. The counter will not go below `0` (use conditional logic to handle this).
+5. The counter value is dynamically updated on the webpage after every button click.
+
+---
+
+### 🧩 Your Task
+
+1. **Select Elements**: Use `document.querySelector` to select the counter display and both buttons.
+2. **Initialize Variables**: Set up a `counterVal` variable initialized to `0` to track the current counter value.
+3. **Event Handling**:
+   - Attach a `click` event listener to each button.
+   - Increment or decrement the `counterVal` based on the button clicked.
+4. **Update the Display**: Use the `.textContent` property to update the counter display with the latest value.
+5. **Prevent Negative Values**: Use a conditional check to ensure the counter does not go below `0`.
+
+---
+
+### 💡 Hints
+
+- **DOM Selection**:
+  - Use `document.querySelector("#id-name")` to target elements by their `id`.
+  - Store these elements in variables for easier reuse.
+
+- **Event Listeners**:
+  - Use `.addEventListener('click', callback)` to listen for button clicks.
+
+- **Conditional Logic**:
+  - Use an `if` statement to ensure the counter does not decrease below `0`.
+
+- **Function for Updates**:
+  - Create a helper function (e.g., `updateCounter`) to centralize the logic for updating the counter display.
+
+---
+
+### 📼 Sample Output Demo
+
+Here’s a video of running a sample output for this exercise: [Dynamic Counter Video](https://drive.google.com/file/d/1AfI5Lk2RFIGGO7SPuYxbL1fbn3AoEROE/view?usp=sharing)
+
+---
+
+### 🚀 Extra Challenges
+
+1. **Set Limits**:
+   - Add a maximum limit (e.g., `100`) to the counter.
+   - Display an alert if the user tries to exceed the maximum or minimum limits.
+
+2. **Keyboard Shortcuts**:
+   - Allow users to increase or decrease the counter using keyboard keys (e.g., `ArrowUp` and `ArrowDown`) by attaching event listener to "window".
+
+Happy coding! 🎉
