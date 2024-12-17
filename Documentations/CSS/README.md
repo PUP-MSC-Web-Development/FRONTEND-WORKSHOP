@@ -8,7 +8,7 @@ ___
 ## Purpose of this Directory
 **Starting to read these learning materials is OPTIONAL** but greatly recommended after watching the workshop! They are available to help you finish the exercises and to help you gain a deeper understanding of CSS.
 
-> **Tip:** Click [here] (./ ) to access the exercises directory and put your CSS skills into practice!
+> **Tip:** Click [here] (./Exercises ) to access the exercises directory and put your CSS skills into practice!
 
 ___
 
@@ -16,5 +16,7 @@ ___
 
 ### PDF Resources
 
-
-1. 
+1. **[CSS by W3schools](https://www.w3schools.com/css/)**
+   This guide provides all the information needed for CSS, covering topics ranging from fundamental to complex with real-world examples.
+2. **[Beginer's Guides to CSS by HTML Dog](https://www.htmldog.com/guides/css/beginner/)**
+3. 
