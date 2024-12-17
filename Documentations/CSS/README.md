@@ -18,5 +18,10 @@ ___
 
 1. **[CSS by W3schools](https://www.w3schools.com/css/)**
    This guide provides all the information needed for CSS, covering topics ranging from fundamental to complex with real-world examples.
+   
 2. **[Beginer's Guides to CSS by HTML Dog](https://www.htmldog.com/guides/css/beginner/)**
-3. 
+Perfect for Beginners, this resource define the foundational elements of CSS in a coherent and straightforward manner
+
+3. **[CSS Basics by MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)**
+A consi
+
