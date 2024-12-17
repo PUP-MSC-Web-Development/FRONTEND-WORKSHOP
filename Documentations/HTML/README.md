@@ -8,7 +8,7 @@ Welcome to the **Front-end Workshop Repository**! This directory is designed to 
 ## Purpose of this Directory
 After watching the workshop, **reading these learning materials is OPTIONAL** but highly encouraged. They are here to help deepen your understanding of HTML and assist in completing the exercises. 
 
-> **Tip:** Click [here](./Exercises) to access the exercises directory and put your HTML skills into practice!
+> **Tip:** Click [here](../../Exercises) to access the exercises directory and put your HTML skills into practice!
 
 ---
 
