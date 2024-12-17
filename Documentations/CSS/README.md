@@ -23,5 +23,39 @@ ___
 Perfect for Beginners, this resource define the foundational elements of CSS in a coherent and straightforward manner
 
 3. **[CSS Basics by MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)**
-A consi
+A copious guide covering essential CSS concept and tags
+
+4. **[CSS Basics by MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)**
+A CSS first steps are ideal for beginners, this contains structure and key elements of CSS.
+
+5. **CSS Basics by Year 11 Digital Technology](https:/year11digitech.weebly.com/css-basics.html)**
+This have an internal and external concept of CSS. A quick guide for creating your first CSS web 
+
+### Cheat Sheet
+
+6. **[CSS Cheat Sheet by_ Studocu](https: //www.studocu.com/en-us/document/university=of-kentucky/intrnal-med-off-site/2-ccs-cheat-sheet-step=
+3/1096234582**
+This cheat sheet includes useful HTML code snippets that you can quickly refer to while working on your task.
+
+___
+
+## Guide on What You'll See in the Learning Materials
+Each resource will typically include:
+_ **CSS Basics:** Learn about the structure of CSS documents, tags, and attricutes.
+_ **Box Model:** Learning about the CSS box model, which includes content, padding, border, and margin.
+_ **Selectors:** Exploring different types of CSS selectors to target HTML elements, such as class, ID, attribute, and pseudo-class selectors.
+_ **Layout Techniques:** Studying various layout methods, including Flexbox and CSS Grid, to arrange and align elements within a webpage.
+_ **Responsive Design:** Implementing responsive design principles to ensure that web content looks good on all devices and screen sizes.
+_ **Specificity and Inheritance:** Understanding how CSS rules are applied based on specificity and inheritance, and how to manage conflicting styles.
+_ **Animations and Transitions:** Adding animations and transitions to create dynamic and interactive user experiences.
+_ **Advanced Topics:** Delving into more advanced CSS features like custom properties (variables), preprocessors, and CSS frameworks.
+
+___
+
+Happy Learning! These topics provide a comprehensive foundation for mastering CSS and creating visually appealing, functional web designs. If you have any specific questions or need further guidance on any of these topics, feel free to ask!
+
+
+
+
+
 
