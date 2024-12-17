@@ -1,15 +1,24 @@
 <img src="Assets/banner.png" alt="Project Banner" width="100%" height="242">
 
-# Frontend Workshop Labs Draft/Outline
+<div align="center">
+  <h1>
+    .·´¯`·.·★ 😘𝘾𝙇𝙄𝘾𝙆 𝙈𝙀, 𝙃𝙊𝙑𝙀𝙍 𝙈𝙀, 𝙇𝙊𝙑𝙀 𝙈𝙀!😍 ★·.·`¯´·.
+     <p> </p>
+     <p> </p>
+  </h1>
+ 
+</div>
 
-## Delegated leads/seniors/mid-levels, feel free to alter this repository as you wish as this is just a sample outline generated from ChatGPT for convenience. Feel free to add images, banners, or any assets that would enhance the repository. You may add more exercises or you can change any exercises as you deem necessary so long as it can reinforce their learnings from the workshop.
-NOTE: Wala tayong permission to create assignments in MS Teams kaya we'll settle with MS Forms as submission.
-Pakidagdag na lang din ng setup instructions like how to clone the template repository using Github Desktop (napagdaanan 'to sa past tools workshop natin)
 
-ADDITIONAL NOTE:
-For visualization, ganito ang magiging process:
+</p>
 
-Workshop -> READ ADDITIONAL DOCUMENTATIONS (optional) -> Work on the exercises -> Submit to the MS Forms dropbox (with knowledge check) -> Done
+
+
+<h2>Welcome to PUP MSC's Frontend Web Development Training Repository where love at first click is just the beginning! Whether you're rekindling your passion for HTML, having a fling with CSS, or diving deep into a committed relationship with JavaScript, these reinforcement exercises are designed to make your coding journey unforgettable. 💘</h2>
+
+
+
+
 
 
 ________________
