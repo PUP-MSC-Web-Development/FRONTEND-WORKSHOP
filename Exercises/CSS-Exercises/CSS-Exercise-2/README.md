@@ -105,7 +105,7 @@ By the end of this project, you should be able to:
 
 💻 **Sample Output:** 
 
-![HTML Banner](/Assets/PricingCards.png)
+![CSS 2](/Assets/CSS2.png)
 
 🚀 **Happy Styling!**
 
