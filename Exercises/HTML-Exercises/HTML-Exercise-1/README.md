@@ -67,7 +67,7 @@ Make sure to:
 
   💻 **Sample Output:** 
 
-  ![HTML Banner](/Assets/htmlExercise1Sample.png)
+  ![HTML Exer1](/Assets/htmlExercise1Sample.png)
 
  
    
