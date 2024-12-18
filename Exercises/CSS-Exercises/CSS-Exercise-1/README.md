@@ -16,25 +16,31 @@ Your task is to design and style the login form using **only HTML and CSS**. No 
 
 ---
 
-### 2. **Design Requirements 🎨**
-- **Page Layout**:
-  - Center the login form both **vertically** and **horizontally** on the screen.
-  - Use a clean, modern design inspired by professional login forms.
-- **Container Styling**:
-  - Use a **shadow effect** for the container.
-  - Add **rounded corners** to make the container look smooth.
-  - Set a light background color (e.g., white, light gray) for the container, while the background of the page can use a gradient or solid light color.
-- **Logo**:
-  - Center the logo at the top of the form.
-  - Add **space** between the logo and the form fields.
-- **Input Fields**:
-  - Style the input fields to have padding, rounded corners, and a simple focus effect.
-  - Use placeholders for guidance (e.g., "Enter your username").
-- **Button**:
-  - Style the login button with a unique color, hover effect, and pointer cursor.
-  - The button should stand out with a bold design to indicate it is clickable.
-- **Error Message**:
-  - Style the error message to appear in **red text** and only show when there is an error.
+### 2. **Design Requirements 🌟**
+
+#### **Page Layout**
+- Center the login form both **vertically** and **horizontally** on the screen.
+- Use a clean, modern design inspired by professional login forms.
+
+#### **Container Styling**
+- Use a **shadow effect** for the container.
+- Add **rounded corners** to make the container look smooth.
+- Set a light background color (e.g., white, light gray) for the container, while the background of the page can use a gradient or solid light color.
+
+#### **Logo**
+- Center the logo at the top of the form.
+- Add **space** between the logo and the form fields.
+
+#### **Input Fields**
+- Style the input fields to have padding, rounded corners, and a simple focus effect.
+- Use placeholders for guidance (e.g., "Enter your username").
+
+#### **Button**
+- Style the login button with a unique color, hover effect, and pointer cursor.
+- The button should stand out with a bold design to indicate it is clickable.
+
+#### **Error Message**
+- Style the error message to appear in **red text** and only show when there is an error.
 
 ---
 
@@ -67,11 +73,11 @@ To style the following elements, you will use only HTML and CSS:
 
 ## 💼 **Your Task**
 
-**Design the Login Form:**
+### **Design the Login Form**
 - Style the login form to meet the design requirements.
 - Use only **HTML and CSS**. Do not edit the HTML structure.
 
-**Make It Interactive:**
+### **Make It Interactive**
 - Style the hover, focus, and active states of inputs and buttons.
 - Style error messages to display in red.
 
@@ -94,9 +100,9 @@ By the end of this project, you should be able to:
 
 ---
 
-💻 **Sample Output:** 
+💻 **Sample Output:**
 
-  ![HTML Banner](/Assets/CSS1.png)
+![HTML Banner](/Assets/CSS1.png)
 
 🚀 **Happy Styling!**
 
