@@ -7,9 +7,9 @@ The goal of this project is to create a simple survey form using **HTML** only. 
 🔧 **Instructions**  
 1. **Provided File 🗂️**  
    You will receive:
-   - `survey-form.html`: A basic HTML file where you will create the survey form.
+   - `exercise-1.html`: A basic HTML file where you will create the survey form.
 
-Your task is to design and structure a survey form within the `survey-form.html` file using only HTML.
+Your task is to design and structure a survey form within the `exercise-1.html` file using only HTML.
 
 2. **Survey Form Flow 🏁**  
    - The survey form should ask the user at least 4 different questions. The form flow should look like this:
