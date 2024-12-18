@@ -8,9 +8,9 @@ The goal of this project is to create a simple tribute page using **HTML** only.
 🔧 **Instructions**  
 1. **Provided File 🗂️**  
    You will receive:
-   - `tribute-page.html`: A basic HTML file where you will build the tribute page.
+   - `exercise-2.html`: A basic HTML file where you will build the tribute page.
 
-Your task is to design and structure a tribute page within the `tribute-page.html` file using only HTML.
+Your task is to design and structure a tribute page within the `exercise-2.html` file using only HTML.
 
 2. **Page Structure 🏁**  
    The tribute page should contain the following sections:
