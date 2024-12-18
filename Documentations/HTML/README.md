@@ -39,19 +39,7 @@ After watching the workshop, **reading these learning materials is OPTIONAL** bu
 
 7. **[Build your first HTML webpage](https://learn.microsoft.com/en-us/training/modules/build-first-html-webpage/)**  
    This module introduces the basics of HTML, teaching you how to create a simple webpage.
-
-8. **[HTML basics](https://learn.microsoft.com/en-us/training/modules/html-basics/)**  
-   Learn the foundational concepts of HTML, including tags, elements, and attributes to structure web pages.
-
-9. **[Build web pages with HTML](https://learn.microsoft.com/en-us/training/modules/build-web-pages-html/)**  
-   This learning path provides an overview of HTML fundamentals, enabling you to structure and style web content effectively.
-
-10. **[Understand semantic HTML](https://learn.microsoft.com/en-us/training/modules/semantic-html/)**  
-   Explore the importance of semantic HTML tags for better accessibility and SEO-friendly web pages.
-
-11. **[Introduction to forms in HTML](https://learn.microsoft.com/en-us/training/modules/html-forms-introduction/)**  
-   Learn how to create and manage HTML forms to collect user input on web pages.
-
+   
 ---
 
 ## Guide on What You'll See in the Learning Materials
