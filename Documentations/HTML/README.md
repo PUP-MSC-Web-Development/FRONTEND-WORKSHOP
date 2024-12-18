@@ -39,7 +39,9 @@ After watching the workshop, **reading these learning materials is OPTIONAL** bu
 
 7. **[Build your first HTML webpage](https://learn.microsoft.com/en-us/training/modules/build-first-html-webpage/)**  
    This module introduces the basics of HTML, teaching you how to create a simple webpage.
-   
+
+8. **[Build web pages with HTML and CSS for beginners](https://learn.microsoft.com/en-us/training/paths/build-web-pages-html-css-for-beginners/)**  
+   This comprehensive course is designed for beginners and covers the fundamental concepts of HTML and CSS.
 ---
 
 ## Guide on What You'll See in the Learning Materials
