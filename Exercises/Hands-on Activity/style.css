@@ -4,6 +4,7 @@
 
 body {  
     display: flex;  
+    flex-direction: column;  
     justify-content: center;  
     align-items: center;  
     height: 100vh;  
@@ -22,6 +23,8 @@ body {
     box-shadow: 0 0 20px rgba(255, 255, 255, 0.8);  
     z-index: 10;  
     transition: transform 0.3s ease, background-color 0.3s ease;  
+    width: 90%;  
+    max-width: 500px;  
 }  
 
 .clock-container:hover {  
@@ -43,29 +46,50 @@ body {
 }  
 
 .quote-container {  
-    font-size: 24px; 
-    margin-bottom: 10px; 
+    font-size: 20px;  
+    margin-bottom: 10px;  
     font-style: italic;  
-    color: #333; 
+    color: #333;  
     text-shadow: 0 0 5px rgba(255, 255, 255, 0.7);   
 }  
 
 .clock {  
-    font-size: 80px;  
+    font-size: 60px;  
     margin: 0;  
-    letter-spacing: 5px; 
+    letter-spacing: 5px;  
     text-align: center;  
-    color: #387d2e; 
+    color: #387d2e;  
     text-shadow: 0 0 10px rgba(75, 255, 75, 0.848), 0 0 20px rgba(0, 255, 0, 0.4);   
 }  
 
 .message {  
-    font-size: 24px;  
+    font-size: 20px;  
     margin: 10px 0 0 0;  
     font-style: italic;  
-    color: #333; 
+    color: #333;  
     text-shadow: 0 0 5px rgba(255, 255, 255, 0.7);  
 }  
+
+.countdown-container {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    color: #333;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.7);
+}
+
+.countdown-container p {
+    font-size: 18px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.countdown-container h2 {
+    margin: 5px 0;
+    font-size: 24px;
+    color: #ff4545;
+    text-shadow: 0 0 10px rgba(255, 69, 69, 0.8);
+}
 
 .snowflakes {  
     position: absolute;  
