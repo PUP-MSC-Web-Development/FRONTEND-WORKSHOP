@@ -41,9 +41,9 @@ After watching the workshop, **reading these documentations is OPTIONAL** but hi
 
 Click on any of the sections below to jump straight into the learning materials:  
 
-- [HTML Learning Resources](/HTML/README.md)  
-- [CSS Learning Resources](/CSS/README.md)  
-- [JavaScript Learning Resources](/JavaScript/README.md)  
+- [HTML Learning Resources](./HTML/README.md)  
+- [CSS Learning Resources](./CSS/README.md)  
+- [JavaScript Learning Resources](./JavaScript/README.md)  
 
 ---
 
