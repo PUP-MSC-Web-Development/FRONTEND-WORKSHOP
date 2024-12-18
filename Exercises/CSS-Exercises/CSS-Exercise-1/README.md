@@ -102,7 +102,7 @@ By the end of this project, you should be able to:
 
 💻 **Sample Output:**
 
-![HTML Banner](/Assets/CSS1.png)
+![CSS 1](/Assets/CSS1.png)
 
 🚀 **Happy Styling!**
 
