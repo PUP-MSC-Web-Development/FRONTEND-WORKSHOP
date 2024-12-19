@@ -1,7 +1,3 @@
-Delegated officers:
-1. Mag-provide ng guide on what they'll see sa documentations (HTML, CSS, JS)
-2. Magsulat ng purpose ng documentations directory na 'to (After watching the workshop, OPTIONAL na basahin ang documentations for continuous learning then encourage them to comply to the exercises, provide hyperlink para iclick na lang nila yung text para ma-redirect sa exercises directory ng github repository natin.
-
 # 🌟 Front-end Workshop Documentations 🌟  
 
 Welcome to the **Documentations Directory** of the Front-end Workshop Repository! This is your one-stop hub for diving into the world of **HTML**, **CSS**, and **JavaScript**. Whether you're a beginner or polishing your skills, these resources will guide you step-by-step to mastering the essentials of front-end development.  
@@ -25,7 +21,7 @@ Bring your websites to life with interactivity! Explore JavaScript basics, DOM m
 
 After watching the workshop, **reading these documentations is OPTIONAL** but highly encouraged for continuous learning. These resources are designed to deepen your understanding of front-end development and assist in completing the exercises.  
 
-> **Encouragement:** Don't forget to practice your skills! Click [here](../../Exercises) to access the exercises directory and apply what you've learned.  
+> **Encouragement:** Don't forget to practice your skills! Click [here](/Exercises) to access the exercises directory and apply what you've learned.  
 
 ---
 
