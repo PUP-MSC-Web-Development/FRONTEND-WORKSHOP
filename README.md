@@ -1,25 +1,16 @@
-<img src="Assets/banner.png" alt="Project Banner" width="100%" height="242">
-
 <div align="center">
+  <img src="Assets/banner.png" alt="Project Banner" width="100%" height="242">
   <h1>
-    .·´¯`·.·★ 😘𝘾𝙇𝙄𝘾𝙆 𝙈𝙀, 𝙃𝙊𝙑𝙀𝙍 𝙈𝙀, 𝙇𝙊𝙑𝙀 𝙈𝙀!😍 ★·.·`¯´·.
-     <p> </p>
-     <p> </p>
+    .·´¯`·.·★ 😘 𝘾𝙇𝙄𝘾𝙆 𝙈𝙀, 𝙃𝙊𝙑𝙀𝙍 𝙈𝙀, 𝙇𝙊𝙑𝙀 𝙈𝙀! 😍 ★·.·`¯´·.
   </h1>
- 
+  <div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge">
+  </div>
 </div>
 
-
-</p>
-
-
-
-<h2>Welcome to PUP MSC's Frontend Web Development Training Repository where love at first click is just the beginning! Whether you're rekindling your passion for HTML, having a fling with CSS, or diving deep into a committed relationship with JavaScript, these reinforcement exercises are designed to make your coding journey unforgettable. 💘</h2>
-
-
-
-
-
+Welcome to PUP MSC's Frontend Web Development Training Repository where love at first click is just the beginning! Whether you're rekindling your passion for HTML, having a fling with CSS, or diving deep into a committed relationship with JavaScript, these reinforcement exercises are designed to make your coding journey unforgettable. 💘
 
 ________________
 
