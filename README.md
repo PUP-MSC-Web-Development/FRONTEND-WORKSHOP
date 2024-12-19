@@ -62,7 +62,16 @@ Each section includes:
 ---
 
 ## Setup Instructions
-1. Clone this template repository ...
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/PUP-MSC-Web-Development/FRONTEND-WORKSHOP
+   ```
+2. Navigate to the repository folder:
+   ```bash
+   cd FRONTEND-WORKSHOP
+   ```
+3. Open the folder in your preferred code editor.
 
 ---
 
