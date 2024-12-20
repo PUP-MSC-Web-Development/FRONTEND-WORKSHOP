@@ -93,6 +93,18 @@ We'd like to thank everyone who contributed to this repository:
 - **[Janine Lureñana](https://github.com/janinelurenana)** - Content Creation  
 
 ---
+## 🎉 Join the Community
+
+Connect with us for support, updates, and more:
+
+- **[Facebook: PUP Microsoft Student Community](https://www.facebook.com/p/PUP-Manila-Microsoft-Student-Community-100089030690536/)**
+- **[LinkedIn: PUP Microsoft Student Community](https://www.linkedin.com/company/pup-manila-microsoft-student-community/posts/?feedView=all)**
+- **[YouTube: PUP Microsoft Student Community](https://www.youtube.com/channel/UCg_NgTkhjb7-_dOiuzUIawAl)**
+
+Follow us on GitHub:  
+**[PUP - MSC Web Development](https://github.com/PUP-MSC-Web-Development)**
+
+---
 
 Happy learning!
 
