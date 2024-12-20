@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Assets/banner.png" alt="Project Banner" width="100%" height="242">
+  <img src="Assets/Frontend Basics!.png" alt="Project Banner" width="100%" height="242">
   <h1>
     .·´¯`·.·★ 😘 𝘾𝙇𝙄𝘾𝙆 𝙈𝙀, 𝙃𝙊𝙑𝙀𝙍 𝙈𝙀, 𝙇𝙊𝙑𝙀 𝙈𝙀! 😍 ★·.·`¯´·.
   </h1>
