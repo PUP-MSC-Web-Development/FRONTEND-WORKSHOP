@@ -1,6 +1,6 @@
 # 🌟 Front-end Workshop Exercises 🌟  
 
-![Welcome Banner](/Assets/welcome-banner.png)  
+<img src="/Assets/exercises banner.png" alt="CSS Banner" width="100%">
 
 Welcome to the **Exercises Directory** of the Front-end Workshop Repository! This section is where theory meets practice. After exploring the resources in the **Documentations Directory**, it’s time to apply your skills and solidify your understanding through self-paced coding exercises.  
 
