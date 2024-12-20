@@ -1,4 +1,4 @@
-![HTML Banner](/Assets/htmlBanner.png)
+<img src="/Assets/html exercise.png" alt="HTML Banner" width="100%">
 
 ## 📘 Introduction
 HTML (Hypertext Markup Language) is the standard language used to structure web pages. It forms the foundation of content on the web, which can be styled with CSS and made interactive with JavaScript.
