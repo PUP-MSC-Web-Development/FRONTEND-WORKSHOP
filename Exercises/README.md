@@ -1,6 +1,6 @@
 # 🌟 Front-end Workshop Exercises 🌟  
 
-![Welcome Banner Placeholder](welcome-banner.png)  
+![Welcome Banner](/Assets/welcome-banner.png)  
 
 Welcome to the **Exercises Directory** of the Front-end Workshop Repository! This section is where theory meets practice. After exploring the resources in the **Documentations Directory**, it’s time to apply your skills and solidify your understanding through self-paced coding exercises.  
 
@@ -60,7 +60,7 @@ The exercises are structured to progressively build your skills and deepen your 
 
 ## 🎉 Good Luck!  
 
-![Good Luck Banner Placeholder with Mick](goodluck-banner.png)  
+![Quote Banner](/Assets/quote-banner.png)  
 
 
 
