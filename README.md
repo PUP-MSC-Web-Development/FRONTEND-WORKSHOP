@@ -26,30 +26,28 @@ Each section includes:
 ### 1. HTML Lab
 - **Key Topics**: Semantic structure, headings, lists, links, and images.
 - Exercises:
-  1. Simple Profile Page (example exercise, can be changed)
-  2. Product Listing Page (example exercise, can be changed)
-  3. + add more if you can
+  1. Survey Form
+  2. Tribute Page
 
 ### 2. CSS Lab
 - **Key Topics**: Selectors, properties, box model, and flexbox.
 - Exercises:
-  1. Styled Card Design (example exercise, can be changed)
-  2. Flexbox Layout (example exercise, can be changed)
-  3. + add more if you can
+  1. Login Form
+  2. Product Pricing Cards
 
 ### 3. JavaScript Basics Lab
 - **Key Topics**: Variables, data types, operators, and control structures.
 - Exercises:
-  1. Basic Calculator (example exercise, can be changed)
-  2. Todo List (example exercise, can be changed)
-  3. + add more if you can
+  1. Console-based Number Guessing Game
+  2. Console-based Calculator
+  3. Temperature Converter Web App
 
 ### 4. JavaScript Advanced Lab
 - **Key Topics**: DOM manipulation and events.
 - Exercises:
-  1. Interactive Image Gallery (example exercise, can be changed)
-  2. Dynamic Form (example exercise, can be changed)
-  3. + add more if you can
+  1. Dynamic-Counter 
+  2. Number Guessing Game Web App
+  3. Calculator Web App
 
 ---
 
