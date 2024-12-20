@@ -2,7 +2,7 @@
 
 ## 🎯 Overview
 
-Welcome to the JavaScript Exercises repository! This collection contains **basic** and **advanced** exercises designed to help you build a strong foundation in JavaScript. Whether you're just starting out with programming or looking for a refreser, these exercises will guide you through key concepts and real-world problem-solving techniques.
+Welcome to the JavaScript Exercises repository! This collection contains **basic** and **advanced** exercises designed to help you build a strong foundation in JavaScript. Whether you're just starting out with programming or looking for a refresher, these exercises will guide you through key concepts and real-world problem-solving techniques.
 
 ## 📝 JavaScript Exercises
 
