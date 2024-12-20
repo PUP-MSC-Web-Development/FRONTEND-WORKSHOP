@@ -51,11 +51,19 @@ Each section includes:
 
 ---
 
-## How to Use This Repository
-1. **Navigate** to the topic folder (e.g., `HTML/`, `CSS/`).
-2. **Read the Documentation** in the `Documentation/` folder to learn the concepts.
-3. **Complete the Exercises** in the `Exercises/` folder.
-4. Submit your repository to the MS forms provided.
+# How to Use This Repository  
+
+1. **Navigate to the Topic Folder**  
+   - For learning materials on **HTML**, **CSS**, and **JavaScript**, go to:  
+     - [HTML Documentation](Documentations/HTML/)  
+     - [CSS Documentation](Documentations/CSS/)  
+     - [JavaScript Documentation](Documentations/JavaScript/)  
+
+2. **Complete the Exercises**  
+   - Access the exercises in the [Exercises](Exercises/) folder.  
+
+3. **Submit Your Work**  
+   - Submit your completed exercises using the provided MS Forms link.  
 
 ---
 
