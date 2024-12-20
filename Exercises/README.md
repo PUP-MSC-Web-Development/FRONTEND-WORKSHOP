@@ -2,7 +2,7 @@
 
 ![Welcome Banner Placeholder](welcome-banner.png)  
 
-Welcome to the **Exercises Directory** of the Front-end Workshop Repository! This section is where theory meets practice. After exploring the resources in the **Documentations Directory**, it’s time to apply your skills and solidify your understanding through hands-on coding exercises.  
+Welcome to the **Exercises Directory** of the Front-end Workshop Repository! This section is where theory meets practice. After exploring the resources in the **Documentations Directory**, it’s time to apply your skills and solidify your understanding through self-paced coding exercises.  
 
 ---
 
@@ -32,6 +32,9 @@ This directory contains exercises across three main front-end development topics
 - Bring life to your works through interactivity with two levels of challenges:  
   - **Basic:** Variables, data types, operators, and control structures  
   - **Advanced:** DOM manipulation and event handling  
+
+### **🛠️ Hands-on Activity**  
+- This directory includes the complete front-end project you worked on during the workshop. It contains a ready-made `index.html`, `style.css`, and `script.js` to guide you in completing your workshop project as reference. 
 
 ---
 
