@@ -66,7 +66,40 @@ Each section includes:
    - Submit your completed exercises using the provided MS Forms link.  
 
 ---
+## 📁 File Component Structure
 
+```
+FRONTEND-WORKSHOP/
+├── Assets/ (used to store images for .md files)
+├── Documentations/
+│   ├── CSS/ (learning materials for CSS)
+│   ├── HTML/ (learning materials for HTML)
+│   ├── JavaScript/ (learning materials for JavaScript)
+│   └── README.md
+├── Exercises/
+│   ├── CSS-Exercises/
+│   │   ├── CSS-Exercise-1/
+│   │   ├── CSS-Exercise-2/
+│   │   └── README.md
+│   ├── HTML-Exercises/
+│   │   ├── HTML-Exercise-1/
+│   │   ├── HTML-Exercise-2/
+│   │   └── README.md
+│   ├── Hands-on Activity/
+│   ├── JavaScript-Exercises/
+│   │   ├── Advanced/
+│   │   │   ├── Advanced-JS-Exercise-1/
+│   │   │   ├── Advanced-JS-Exercise-2/
+│   │   │   └── Advanced-JS-Exercise-3/
+│   │   ├── Basic/
+│   │   │   ├── Basic-JS-Exercise-1/
+│   │   │   ├── Basic-JS-Exercise-2/
+│   │   │   └── Basic-JS-Exercise-3/
+│   └── README.md
+└── README.md
+
+```
+---
 ## Setup Instructions
 
 1. Clone this repository:
