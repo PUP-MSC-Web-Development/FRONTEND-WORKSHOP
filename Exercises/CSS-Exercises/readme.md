@@ -1,4 +1,4 @@
-<img src="/Assets/CssBanner.png" alt="CSS Banner" width="100%">
+<img src="/Assets/css exercise.png" alt="CSS Banner" width="100%">
 
 
 ## 🌈 Introduction
