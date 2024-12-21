@@ -118,7 +118,8 @@ FRONTEND-WORKSHOP/
 
 We'd like to thank everyone who contributed to this repository:
 
-- **[Rhandie Sales Jr.](https://github.com/Rheen0)** - Director for Web Development/Speaker  
+- **[Rhandie Sales Jr.](https://github.com/Rheen0)** - Director for Web Development
+- **[Jhon Roy Ilao](https://github.com/jhonroyilao)** - Web Development Assistant Director  
 - **[Adriel Magalona](https://github.com/adr1el-m)** - Resource Manager
 - **[Lovely Nablo](https://github.com/Lovely2113)** - Resource Curation
 - **[Johannah Agapito](https://github.com/joejhbb)** - Content Creation  
