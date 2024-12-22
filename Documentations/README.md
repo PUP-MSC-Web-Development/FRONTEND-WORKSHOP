@@ -31,16 +31,16 @@ Explore the curated resources below, categorized for your learning convenience:
 
 | **Category**   | **Resource**                                                                                         | **Contributor/Source**                               |
 |----------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| **HTML**       | [HTML - CSS Module](https://stonybrook.edu)                                                         | Stonybrook University                               |
-|                | [HTML Basic Code and Tags](https://nddu.edu)                                                        | Notre Dame of Dadiangas University                 |
-|                | [HTML Basics Module](https://lucknowuniversity.org)                                                 | Lucknow University                                  |
-|                | [HTML Basics Module](https://yorku.ca)                                                              | York University                                     |
-|                | [HTML Module](https://www.tutorialspoint.com/html)                                                  | Tutorialspoint                                      |
-| **JavaScript** | [JavaScript Course Notes](https://winterstein.com)                                                  | Winterstein                                         |
-|                | [JavaScript Basics](https://rebeccamurphey.com)                                                     | Rebecca Murphey                                     |
-|                | [JavaScript Programming 2024](https://apollosage.com)                                               | Apollo Sage                                         |
-|                | [JavaScript Tutorial](https://www.tutorialspoint.com/javascript)                                     | Tutorialspoint                                      |
-|                | [The JavaScript Handbook](https://flaviocopes.com)                                                  | Flavio Copes                                        |
+| **HTML**       | [HTML - CSS Module]                                                         | Stonybrook University                               |
+|                | [HTML Basic Code and Tags]                                                        | Notre Dame of Dadiangas University                 |
+|                | [HTML Basics Module]                                                 | Lucknow University                                  |
+|                | [HTML Basics Module]                                                              | York University                                     |
+|                | [HTML Module]                                                  | Tutorialspoint                                      |
+| **JavaScript** | [JavaScript Course Notes]                                                  | Winterstein                                         |
+|                | [JavaScript Basics]                                                     | Rebecca Murphey                                     |
+|                | [JavaScript Programming 2024]                                               | Apollo Sage                                         |
+|                | [JavaScript Tutorial]                                     | Tutorialspoint                                      |
+|                | [The JavaScript Handbook]                                                  | Flavio Copes                                        |
 
 ---
 
