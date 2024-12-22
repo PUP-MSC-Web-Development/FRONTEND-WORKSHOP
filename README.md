@@ -37,19 +37,33 @@ Welcome to the **Frontend Workshop Labs** repository! This repository provides h
 
 ## Repository Structure  
 
-| **Folder/File**         | **Purpose**                  |  
-|--------------------------|------------------------------|  
-| `Documentations/`       | Learning materials.          |  
-| `Exercises/`            | Practice exercises.          |  
-| `README.md`             | Project introduction.        |  
+| **Folder/File**         | **Purpose** |  
+|-------------------------|-------------|  
+| `FRONTEND-WORKSHOP/`    | Main project folder.                                       |
+| `Assets/`               | Folder that stores images for guides and tutorials.        |
+| `Documentations/`       | Contains Learning materials for Html, Css, and JavaScript. |  
+| `Exercises/`            | Practice exercises for Frontend Technologies.              |  
+| `README.md`             | Folder to store images for guides and tutorials.           |  
 
 ---
 
 ## Setup Instructions  
-1. **Install GitHub Desktop**: Download and install.  
-2. **Sign In**: Use your GitHub credentials.  
-3. **Clone Repository**: Copy the URL and clone using GitHub Desktop.  
-4. **Access Files**: Navigate to the cloned files.  
+1. **Install GitHub Desktop**: Download and install.
+   
+     <img src="Assets/GIthubDesktop.png" alt="Github Install" width="100%" height="100%">
+     
+2. **Sign In**: Use your GitHub credentials.
+   
+     <img src="Assets/GithubSignIn.png" alt="Github SignIn" width="100%" height="500">
+     
+3. **Clone Repository**: Copy the URL and clone using GitHub Desktop.
+   
+     <img src="Assets/RepoCloning.png" alt="Repository Url" width="100%" height="100%">
+     
+4. **Access Files**: Navigate to the cloned files.
+   
+     <img src="Assets/repoCloned.png" alt="Cloned Repository" width="100%" height="500">
+
 
 ---
 
