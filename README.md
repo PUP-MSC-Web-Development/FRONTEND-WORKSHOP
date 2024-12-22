@@ -36,15 +36,29 @@ Welcome to the **Frontend Workshop Labs** repository! This repository provides h
 ---
 
 ## Repository Structure  
+``` Bash
+> 📁 Assets
+˅ 📂 Documentations 
+  > 📁 CSS 
+  > 📁 Html 
+  > 📁 JavaScript 
+    🗎  README.md 
+˅  📂 Exercises
+ > 📁 CSS-Exercises
+ > 📁 Html-Exercises
+ > 📁 JavaScript-Exercises
+   🗎  README.md
+🗎  README.md
 
-| **Folder/File**         | **Purpose** |  
-|-------------------------|-------------|  
-| `FRONTEND-WORKSHOP/`    | Main project folder.                                       |
-| `Assets/`               | Folder that stores images for guides and tutorials.        |
-| `Documentations/`       | Contains Learning materials for Html, Css, and JavaScript. |  
-| `Exercises/`            | Practice exercises for Frontend Technologies.              |  
-| `README.md`             | Folder to store images for guides and tutorials.           |  
+| Folder/File             |  Purpose                                                      |
+|-------------------------|---------------------------------------------------------------|
+| `FRONTEND-WORKSHOP/`    | Main project folder.                                          |
+| `Assets/`               | Folder that stores images for guides and tutorials.           |
+| `Documentations/`       | Contains Learning materials for Html, Css, and JavaScript.    |
+| `Exercises/`            | Practice exercises for Frontend Technologies.                 |
+| `README.md`             | Folder to store images for guides and tutorials.              |
 
+```
 ---
 
 ## Setup Instructions  
@@ -56,11 +70,11 @@ Welcome to the **Frontend Workshop Labs** repository! This repository provides h
    
      <img src="Assets/GithubSignIn.png" alt="Github SignIn" width="100%" height="500">
      
-3. **Clone Repository**: Copy the URL and clone using GitHub Desktop.
+3. **Clone Repository**: Copy the URL and clone using GitHub Desktop or click the "Open with Github Desktop".
    
      <img src="Assets/RepoCloning.png" alt="Repository Url" width="100%" height="100%">
      
-4. **Access Files**: Navigate to the cloned files.
+4. **Access Files**: Navigate to the cloned files, you may now access the repository via vs Code or file Explorer.
    
      <img src="Assets/repoCloned.png" alt="Cloned Repository" width="100%" height="500">
 
