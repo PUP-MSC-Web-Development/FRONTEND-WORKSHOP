@@ -44,10 +44,10 @@ Welcome to the **Frontend Workshop Labs** repository! This repository provides h
   > 📁 JavaScript 
     🗎  README.md 
 ˅  📂 Exercises
- > 📁 CSS-Exercises
- > 📁 Html-Exercises
- > 📁 JavaScript-Exercises
-   🗎  README.md
+  > 📁 CSS-Exercises
+  > 📁 Html-Exercises
+  > 📁 JavaScript-Exercises
+    🗎  README.md
 🗎  README.md
 
 | Folder/File             |  Purpose                                                      |
