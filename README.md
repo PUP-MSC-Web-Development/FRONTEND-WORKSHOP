@@ -51,7 +51,7 @@ Each section includes:
 
 ---
 
-# How to Use This Repository  
+## How to Use This Repository  
 
 1. **Navigate to the Topic Folder**  
    - For learning materials on **HTML**, **CSS**, and **JavaScript**, go to:  
@@ -69,48 +69,57 @@ Each section includes:
 ## 📁 File Component Structure
 
 ```
-FRONTEND-WORKSHOP/
-├── Assets/ (used to store images for .md files)
-├── Documentations/
-│   ├── CSS/ (learning materials for CSS)
-│   ├── HTML/ (learning materials for HTML)
-│   ├── JavaScript/ (learning materials for JavaScript)
-│   └── README.md
-├── Exercises/
-│   ├── CSS-Exercises/
-│   │   ├── CSS-Exercise-1/
-│   │   ├── CSS-Exercise-2/
-│   │   └── README.md
-│   ├── HTML-Exercises/
-│   │   ├── HTML-Exercise-1/
-│   │   ├── HTML-Exercise-2/
-│   │   └── README.md
-│   ├── Hands-on Activity/
-│   ├── JavaScript-Exercises/
-│   │   ├── Advanced/
-│   │   │   ├── Advanced-JS-Exercise-1/
-│   │   │   ├── Advanced-JS-Exercise-2/
-│   │   │   └── Advanced-JS-Exercise-3/
-│   │   ├── Basic/
-│   │   │   ├── Basic-JS-Exercise-1/
-│   │   │   ├── Basic-JS-Exercise-2/
-│   │   │   └── Basic-JS-Exercise-3/
-│   └── README.md
-└── README.md
+# FRONTEND-WORKSHOP
+
+This project repository contains learning materials and practice exercises for HTML, CSS, and JavaScript.
+
+## Folder Structure
+
+| **Folder/File**                     | **Purpose**                                                 |
+|---------------------------------------------------------------------------------------------------|
+| `FRONTEND-WORKSHOP/`                | Main project folder.                                        |
+| `README.md`                         | Introduction and guide for the whole project.               |
+| `Assets/`                           | Folder to store images for guides and tutorials.            |
+| `Documentations/`                   | Contains learning materials for frontend technologies       |
+|                                     |       (HTML, CSS, JavaScript).                              |
+| `Documentations/CSS/`               | Learning materials about CSS.                               |
+| `Documentations/HTML/`              | Learning materials about HTML.                              |
+| `Documentations/JavaScript/`        | Learning materials about JavaScript.                        |
+| `Exercises/`                        | Practice exercises for HTML, CSS, and JavaScript.           |
+| `Exercises/CSS-Exercises/`          | CSS practice tasks.                                         |
+| `Exercises/HTML-Exercises/`         | HTML practice tasks.                                        |
+| `Exercises/JavaScript-Exercises/`   | JavaScript practice tasks.                                  |
+| `Exercises/Hands-on Activity/`      | Real-world practice projects.                               |
+| `Exercises/README.md`               | Overview of all exercises.                                  |
 
 ```
 ---
 ## Setup Instructions
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/PUP-MSC-Web-Development/FRONTEND-WORKSHOP
-   ```
-2. Navigate to the repository folder:
-   ```bash
-   cd FRONTEND-WORKSHOP
-   ```
-3. Open the folder in your preferred code editor.
+### Step 1: ### 
+- Install GitHub Desktop
+- Download GitHub Desktop from the official GitHub Desktop website.
+- Install the application following the instructions for your operating system.
+### Step 2: ###
+- Sign In to GitHub
+- Open GitHub Desktop.
+- Sign in with your GitHub account credentials.
+### Step 3: ###
+- Locate the Repository to Clone
+- Go to the repository you want to clone on GitHub.
+- Click the green Code button and ensure the HTTPS tab is selected.
+- Copy the repository URL.
+### Step 4: ###
+- Clone the Repository
+- In GitHub Desktop, click File > Clone Repository or click the + button in the top-left corner and select Clone Repository.
+- Choose the URL tab (if the repository is not in your GitHub account).
+- Paste the repository URL into the input field.
+- Choose a local path on your computer to save the repository.
+- Click Clone.
+### Step 5: ###
+- Access the Cloned Repository
+- Once the cloning process is complete, the repository will appear in the GitHub Desktop interface.
+- You can now view the repository files, create branches, make changes, and commit updates.
 
 ---
 
