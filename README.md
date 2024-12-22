@@ -18,20 +18,22 @@ ________________
 
 Welcome to the **Frontend Workshop Labs** repository! This repository provides hands-on exercises to learn HTML, CSS, and JavaScript fundamentals.  
 
-### Key Components  
-1. **Documentation**: Learn core concepts.  
-2. **Exercises**: Practice activities.  
-3. **Knowledge Check**: Quiz available on Dropbox.  
-
-### Lab Topics  
-- **HTML Lab**: Semantic structure, lists, links, and images.  
-   - Exercises: Survey Form, Tribute Page.  
-- **CSS Lab**: Selectors, box model, flexbox.  
-   - Exercises: Login Form, Pricing Cards.  
-- **JavaScript Basics**: Variables, operators, control structures.  
-   - Exercises: Console games, Temperature Converter.  
-- **JavaScript Advanced**: DOM manipulation, events.  
-   - Exercises: Dynamic Counter, Calculator Web App.  
+| **No.** | **Assignment**                    | **Overview**                                                                                                                                                                                                                                      |
+|---------|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **HTML** |                                    |                                                                                                                                                                                                                                                  |
+| 1       | Survey Form Project                | **Objective**: Create a simple survey form using HTML to gather user responses through text fields, multiple-choice questions, and checkboxes. Focus on using form elements and collecting user input effectively.                                |
+| 2       | Tribute Page Project               | **Objective**: Build a tribute page using HTML to highlight an important individual, historical figure, or personal hero. Emphasize structured organization and key details using HTML elements.                                                 |
+| **CSS**  |                                    |                                                                                                                                                                                                                                                  |
+| 3       | Login Form                         | **Objective**: Design a visually appealing login form using HTML and CSS. Enhance the user experience with styling and attention to detail.                                                                                                      |
+| 4       | Product Pricing Cards              | **Objective**: Create modern and visually appealing product pricing cards using HTML and CSS. Practice layout and styling techniques for a polished presentation.                                                                                |
+| **JavaScript (Basic)** |                      |                                                                                                                                                                                                                                                  |
+| 5       | Number Guessing Game               | **Objective**: Develop a number guessing game using variables, conditionals, and loops. Provide hints ("Higher" or "Lower") and interact with the user through browser dialogs such as `alert` and `prompt`.                                     |
+| 6       | Console Calculator                 | **Objective**: Create a console-based calculator to perform arithmetic operations. Use JavaScript operators and functions, along with browser dialogs, to take input and display results.                                                         |
+| 7       | Temperature Converter              | **Objective**: Implement a temperature converter to switch between Celsius and Fahrenheit. Introduce DOM manipulation and event listeners for basic interactivity.                                                                               |
+| **JavaScript (Advanced)** |                   |                                                                                                                                                                                                                                                  |
+| 8       | Dynamic Counter                    | **Objective**: Build a dynamic counter that increases or decreases based on user input. Focus on DOM manipulation, event handling, and conditional logic.                                                                                        |
+| 9       | Number Guessing Game Web App       | **Objective**: Convert the number guessing game into a web application. Enhance skills in DOM manipulation, event handling, and implementing interactive web-based games.                                                                        |
+| 10      | Calculator Web App                 | **Objective**: Design a web-based calculator with advanced features like a clear button, decimal support, backspace functionality, and keyboard input. Strengthen skills in DOM manipulation and building interactive web applications.          |
 
 ---
 
