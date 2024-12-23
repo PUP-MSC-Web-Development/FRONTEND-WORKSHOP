@@ -62,11 +62,28 @@ Then follow the installation instructions based on your operating system.
 **2. Use this Template and Create a New Repository**
 - Navigate to the cover page of the PUP MSC Web Development `FRONTEND-WORKSHOP` GitHub repository template.
 - Click on the "Use this template" button at the top-right of the repository page.
+  <img src="Assets/setup1.png" alt="Project Banner" width="100%" height="100%">
+- Choose "Create a new repository" from the dropdown.
+  <img src="Assets/setup2.png" alt="Project Banner" width="100%" height="100%">
+- Fill in your repository's details (name and visibility) and click "Create repository".
+
+
+*Note: You can call your repository any name you want but for consistency you can name it `FRONTEND-WORKSHOP`, and ensure that the visibility is set to `public`.*
 
 **3. Clone the Repository**
-
+- Go to your newly created repository on GitHub.
+- Click the `Code` button at the top-right of your repository page.
+  <img src="Assets/setup3.png" alt="Project Banner" width="100%" height="100%">
+- In the dropdown, click `Open with GitHub Desktop`.
+- GitHub Desktop will launch, and you'll be prompted to select a local folder to clone the repository to. Choose a folder and click `Clone`.
+  <img src="Assets/setup4.png" alt="Project Banner" width="100%" height="100%">
+  
 **4. Open the Repository in Visual Studio Code**
-
+- Once cloning is done, go back to GitHub Desktop.
+  <img src="Assets/setup5.png" alt="Project Banner" width="100%" height="100%">
+- Then click `Open in Visual Studio Code`
+   <img src="Assets/setup6.png" alt="Project Banner" width="100%" height="100%">
+- Lastly, navigate to the exercises directory and solve the HTML, CSS, and JavaScript problems. Happy coding!
 ---
 
 ## Contributors  
