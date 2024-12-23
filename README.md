@@ -16,10 +16,10 @@ ________________
 
 
 
-## 🧑‍💻 Assignments Overview
+## 🧑‍💻 Exercises Overview
 
 ### **HTML** <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"> 
-| **No.** | **Assignment**         | **Overview**                                                                                                                                                                      |
+| **No.** | **Exercise**         | **Overview**                                                                                                                                                                      |
 |---------|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1       | Survey Form Project     | **Objective**: Create a simple survey form using HTML to gather user responses through text fields, multiple-choice questions, and checkboxes. Focus on using form elements and collecting user input effectively. |
 | 2       | Tribute Page Project    | **Objective**: Build a tribute page using HTML to highlight an important individual, historical figure, or personal hero. Emphasize structured organization and key details using HTML elements. |
@@ -27,7 +27,7 @@ ________________
 ---
 
 ### **CSS** <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
-| **No.** | **Assignment**           | **Overview**                                                                                                                                                                      |
+| **No.** | **Exercise**           | **Overview**                                                                                                                                                                      |
 |---------|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 3       | Login Form                | **Objective**: Design a visually appealing login form using HTML and CSS. Enhance the user experience with styling and attention to detail.                                      |
 | 4       | Product Pricing Cards     | **Objective**: Create modern and visually appealing product pricing cards using HTML and CSS. Practice layout and styling techniques for a polished presentation.               |
@@ -35,7 +35,7 @@ ________________
 ---
 
 ### **JavaScript (Basic)** <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge"> 
-| **No.** | **Assignment**           | **Overview**                                                                                                                                                                      |
+| **No.** | **Exercise**           | **Overview**                                                                                                                                                                      |
 |---------|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 5       | Number Guessing Game      | **Objective**: Develop a number guessing game using variables, conditionals, and loops. Provide hints ("Higher" or "Lower") and interact with the user through browser dialogs such as `alert` and `prompt`. |
 | 6       | Console Calculator        | **Objective**: Create a console-based calculator to perform arithmetic operations. Use JavaScript operators and functions, along with browser dialogs, to take input and display results. |
@@ -44,7 +44,7 @@ ________________
 ---
 
 ### **JavaScript (Advanced)** <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge"> 
-| **No.** | **Assignment**               | **Overview**                                                                                                                                                                      |
+| **No.** | **Exercise**               | **Overview**                                                                                                                                                                      |
 |---------|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 8       | Dynamic Counter               | **Objective**: Build a dynamic counter that increases or decreases based on user input. Focus on DOM manipulation, event handling, and conditional logic.                        |
 | 9       | Number Guessing Game Web App  | **Objective**: Convert the number guessing game into a web application. Enhance skills in DOM manipulation, event handling, and implementing interactive web-based games.        |
