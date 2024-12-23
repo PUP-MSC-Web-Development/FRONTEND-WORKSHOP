@@ -2,21 +2,19 @@
   <img src="Assets/Frontend Basics!.png" alt="Project Banner" width="100%" height="242">
   <h1>
     .·´¯`·.·★ 😘 𝘾𝙇𝙄𝘾𝙆 𝙈𝙀, 𝙃𝙊𝙑𝙀𝙍 𝙈𝙀, 𝙇𝙊𝙑𝙀 𝙈𝙀! 😍 ★·.·`¯´·.
-  </h1>
-  <div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
+     <div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge">
   </div>
+  </h1>
 </div>
 
 Welcome to PUP MSC's Frontend Web Development Training Repository where love at first click is just the beginning! Whether you're rekindling your passion for HTML, having a fling with CSS, or diving deep into a committed relationship with JavaScript, these reinforcement exercises are designed to make your coding journey unforgettable. 💘
 
 ________________
 
-## Frontend Workshop Labs  
 
-Welcome to the **Frontend Workshop Labs** repository! This repository provides hands-on exercises to learn HTML, CSS, and JavaScript fundamentals.  
 
 ## 🧑‍💻 Assignments Overview
 
@@ -52,30 +50,7 @@ Welcome to the **Frontend Workshop Labs** repository! This repository provides h
 | 9       | Number Guessing Game Web App  | **Objective**: Convert the number guessing game into a web application. Enhance skills in DOM manipulation, event handling, and implementing interactive web-based games.        |
 | 10      | Calculator Web App            | **Objective**: Design a web-based calculator with advanced features like a clear button, decimal support, backspace functionality, and keyboard input. Strengthen skills in DOM manipulation and building interactive web applications. |
 
-## Repository Structure  
-``` Bash
-> 📁 Assets
-˅ 📂 Documentations 
-  > 📁 CSS 
-  > 📁 Html 
-  > 📁 JavaScript 
-    🗎  README.md 
-˅  📂 Exercises
-  > 📁 CSS-Exercises
-  > 📁 Html-Exercises
-  > 📁 JavaScript-Exercises
-    🗎  README.md
-🗎  README.md
 
-| Folder/File             |  Purpose                                                      |
-|-------------------------|---------------------------------------------------------------|
-| `FRONTEND-WORKSHOP/`    | Main project folder.                                          |
-| `Assets/`               | Folder that stores images for guides and tutorials.           |
-| `Documentations/`       | Contains Learning materials for Html, Css, and JavaScript.    |
-| `Exercises/`            | Practice exercises for Frontend Technologies.                 |
-| `README.md`             | Folder to store images for guides and tutorials.              |
-
-```
 ---
 
 ## Setup Instructions  
