@@ -13,7 +13,7 @@ Learn how to structure web pages and create a solid foundation for your websites
 Style your websites like a pro! Dive into CSS basics, layout techniques, animations, and responsive design principles to make your web pages visually stunning and user-friendly.  
 
 ### **⚙️ JavaScript Learning Resources**  
-Bring your websites to life with interactivity! Explore JavaScript basics, DOM manipulation, event handling, and advanced topics like APIs and asynchronous programming.  
+Bring your websites to life with interactivity! Explore JavaScript basics, DOM manipulation, and event handling.
 
 ---
 
