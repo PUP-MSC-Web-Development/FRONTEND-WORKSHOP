@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Assets/Frontend Basics!.png" alt="Project Banner" width="100%" height="242">
+  <img src="Assets/Frontend Basics!.png" alt="Project Banner" width="100%" height="100%">
   <h1>
     .·´¯`·.·★ 😘 𝘾𝙇𝙄𝘾𝙆 𝙈𝙀, 𝙃𝙊𝙑𝙀𝙍 𝙈𝙀, 𝙇𝙊𝙑𝙀 𝙈𝙀! 😍 ★·.·`¯´·.
      <div style="display: flex; justify-content: center; gap: 40px; align-items: center;">
@@ -54,22 +54,18 @@ ________________
 ---
 
 ## Setup Instructions  
-1. **Install GitHub Desktop**: Download and install.
-   
-     <img src="Assets/GIthubDesktop.png" alt="Github Install" width="100%" height="100%">
-     
-2. **Sign In**: Use your GitHub credentials.
-   
-     <img src="Assets/GithubSignIn.png" alt="Github SignIn" width="100%" height="500">
-     
-3. **Clone Repository**: Copy the URL and clone using GitHub Desktop or click the "Open with Github Desktop".
-   
-     <img src="Assets/RepoCloning.png" alt="Repository Url" width="100%" height="100%">
-     
-4. **Access Files**: Navigate to the cloned files, you may now access the repository via vs Code or file Explorer.
-   
-     <img src="Assets/repoCloned.png" alt="Cloned Repository" width="100%" height="500">
+**1. Install GitHub Desktop (if you don't have it)**
 
+If you haven't installed GitHub Desktop yet, download and install it from the [official GitHub Desktop page.](https://github.com/apps/desktop)
+Then follow the installation instructions based on your operating system.
+
+**2. Use this Template and Create a New Repository**
+- Navigate to the cover page of the PUP MSC Web Development `FRONTEND-WORKSHOP` GitHub repository template.
+- Click on the "Use this template" button at the top-right of the repository page.
+
+**3. Clone the Repository**
+
+**4. Open the Repository in Visual Studio Code**
 
 ---
 
